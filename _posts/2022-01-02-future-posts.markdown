@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "EXAMPLE TITLE"
+title:  "Future posts"
 date:   2022-01-02 17:05:54 -0500
 categories: blog
 ---

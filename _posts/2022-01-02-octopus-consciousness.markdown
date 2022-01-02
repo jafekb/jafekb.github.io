@@ -10,12 +10,13 @@ The book was _Other Minds: The Octopus, the Sea, and the Deep Origins of Conscio
 ![animal kingdom](./../images/animal_kingdom.jpeg)
 What this means is that  
 ```
-Cephalopods are an island of mental complexity in the sea of invertebrate animals.  
-Because our most recent common ancestor was so simple and lies so far back, cephalopods 
-are an independent experiment in the evolution of large brains and complex behavior. 
-If we can make contact with cephalopods as sentient beings, it is not because of a 
-shared history, not because of kinship, but because evolution built minds twice over. 
-This is probably the closest we will come to meeting an intelligent alien.
+Cephalopods are an island of mental complexity in the sea of invertebrate
+animals. Because our most recent common ancestor was so simple and lies
+so far back, cephalopods are an independent experiment in the evolution
+of large brains and complex behavior. If we can make contact with
+cephalopods as sentient beings, it is not because of a shared history,
+not because of kinship, but because evolution built minds twice over. This
+is probably the closest we will come to meeting an intelligent alien.
 ```
 The importance of this insight cannot be overstated. Intelligence in all mammals is a form of _divergent evolution_, "the process whereby groups from the same common ancestor evolve and accumulate differences" ([source][divergent-evolution]).
 A single mammalian ancestor developed a complex central nervous system including a central brain and spinal cord, and different mammals have continued to branch out and improve this general structure over many millions of years. However, the common ancestry of cephalopods and mammals diverged _before_ the development of complex nervous systems! So any intelligence present in an octopus was developed entirely independently from humans. It brings to mind a line from a book which should be included in any discussion of the origins of intelligence, Hofstadters' _Godel, Escher, Bach_:  
