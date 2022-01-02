@@ -4,15 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This is the public half of Ben Jafek's blog, where I write about stuff that I think is interesting. Most of it is things that I think I can't find elsewhere on the internet, but some things will be pretty direct copies from other sources that I just want to learn more about. See the
+[Future Posts](./_posts/2022-01-02-future-posts.markdown]) post for information about things I think I might write about in the future. I am not _yet_ a very good writer, so read at your own peril.
