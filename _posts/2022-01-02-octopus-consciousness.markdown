@@ -7,7 +7,7 @@ categories: consciousness
 
 I recently finished reading Ray Bradbury's _Fahrenheit 451_, so I was in the market for a new book to read. I opened Libby and scrolled through the immediately-available audiobooks from my local library. As is my habit, as soon as I found a book with the word _consciousness_ in the title, I downloaded it.
 The book was _Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness_ by Peter Godfrey-Smith. It is fascinating, and a perfect addition to my collection of ardently anti-human exceptionalism literature. This book added octopuses to my list of creatures who threaten the idea of human exceptionalism. The fascinating point that Godfrey-Smith points out, though, is that octopuses are unique in their similarity to human intelligence because of how distant their relationship is to us evolutionarily. They are the most intelligent animals outside of the Phylum Cordata, the phylum which includes vertebrates, and therefore all mammals, including humans. Look at this figure to see how distant the relationship between humans and cephalopods is:
-![animal kingdom](./../images/animal_kingdom.jpeg)
+![animal kingdom](/images/animal_kingdom.jpeg)
 What this means is that  
 ```
 Cephalopods are an island of mental complexity in the sea of invertebrate
