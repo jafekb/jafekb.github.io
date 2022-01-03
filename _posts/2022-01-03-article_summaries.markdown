@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "EXAMPLE TITLE"
+title:  "Article summaries"
 date:   2022-01-03 08:17:55 -0500
 categories: blog
 ---
