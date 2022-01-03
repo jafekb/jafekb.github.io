@@ -32,17 +32,29 @@ the essence of intelligence.
 The study of octopuses provides us with a unique opportunity to study what intelligence could look like in an organism very different from ourselves, to give us insight into this possibly-existent centralized definition of intelligence. 
 And octopuses do have some very key differences from humans in terms of their brain structure and function. In all mammals, the neurons are centralized in the brain, with a spinal cord acting as a central transmission of nerve signals to the body. However, in octopuses, more than 50% of their 500,000,000 neurons lie outside the central brain, in the tentacles. This structure has some interesting effects: tentacles can perform all of their basic functions for hours after being severed from their dead owner ([source][dead-tentacles]). This brings to mind images of the buggers from Card's _Ender's Game_, in which hundreds of separate organisms act as one while being controlled by a single "queen". It certainly is a very foreign picture of intelligence.
 
-In fact, Godfrey-Smith says that octopuses are so different from humans that for many years they were not covered under anti-cruelty laws in scientific studies. In fact, only in November 2021 did the UK publish a report recognizing the sentience of octopuses, and recommending their ethical treatment ([source][uk-sentient])
+In fact, Godfrey-Smith says that octopuses are so different from humans that for many years they were not covered under anti-cruelty laws in scientific studies. It was only in November 2021 did the UK [publish a report][uk-sentient] recognizing the sentience of octopuses, and recommending their ethical treatment (the report itself cites Godfrey-Smith's book for "popularis[ing] the idea that octopods may be sentient." This is an extreme case, but human misunderstanding of animal intelligence is a common theme in the history of cognitive ethology. Evidence of intelligence for many animals has a similar problem where anecdotal evidence of complex intelligent behavior far outpaces reproducible, scientific results in the lab. 
+In 2013, Franz de Waal and Jennifer Pokorny [received an Ignobel Prize][de-waal-ignobel] for "discovering that chimpanzees can identify other chimpanzees individually from seeing photographs of their rear ends." The Ignobel Prize is a hilarious satiric prize awarded by the [Annals of Improbable Research][annals-improbable] to scientific studies that "first make people laugh, and then make them think." Their work set out to demonstrate that previous work in determining sex distinction capabilities in nonhuman primates had focused too fully on face recognition, because that's how it would be easiest for humans:
+```
+We humans, find it easy to recognize differences between male
+and female chimpanzees (i.e., male on left, female on right). The present
+study, however, presented close-up portraits cropped to the same size, so
+that differences could have been less obvious. It appears that chimpanzees
+are greatly helped by extrinsic information on familiar individuals (such as
+their behavior in the group), because they prove better at associating familiar
+faces with sex-specific behinds even if those behinds are not identity-matched.
+Photograph by Frans de Waal.
+```
+![chimpanzees](/images/chimpanzees.png)
+Frans de Waal discusses this problem in chimpanzee research, but many other researchers discuss this problem. Alexandra Horowitz talks about it in dogs in _Inside of a Dog_, and Bates & Byrne use the African elephant in a [case study on anecdotes][elephant-anecdote] in 2006. The problem is that it is so hard to convince animals to reproduce the creative behavior in controlled experiments. Common problems that researchers face include:
+1. How do we properly motivate animals in experiments?
+2. How do we design experiments that are similar enough to the animals' natural environments?
+3. How do we understand the behavior that the animals demonstrate?
 
-
-### TODO
-1. Misunderstanding animals
-    a. invertebrates not covered under anti-cruelty laws
-    b. de Waal's Ignobel Prize butts
-2. vertebrates
-    a. Ender's game: buggers
-
+These are very interesting problems that confront all kinds of cognitive ethologists, but evidence continues to mount which suggests that humans aren't the only animal on earth with complex cognitive abilities.
 
 [divergent-evolution]: https://biologydictionary.net/divergent-evolution/
 [dead-tentacles]: https://www.smithsonianmag.com/smart-news/severed-octopus-arms-have-a-mind-of-their-own-2403303/
 [uk-sentient]: https://www.lse.ac.uk/News/News-Assets/PDFs/2021/Sentience-in-Cephalopod-Molluscs-and-Decapod-Crustaceans-Final-Report-November-2021.pdf
+[de-waal-ignobel]: https://www.improbable.com/2013/03/23/ig-nobel-winner-frans-de-waal-the-intelligence-of-animals/
+[annals-improbable]: https://www.improbable.com/2021-ceremony/ig-nobel-prizes/
+[elephant-anecdote]: https://www.researchgate.net/profile/Lucy-Bates-5/publication/6394810_Creative_or_created_Using_anecdotes_to_investigate_animal_cognition/links/5a1d40f30f7e9b2a53170d39/Creative-or-created-Using-anecdotes-to-investigate-animal-cognition.pdf
