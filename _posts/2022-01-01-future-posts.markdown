@@ -14,4 +14,4 @@ categories: blog
 6. how do transformers work
 7. how do 2d object detectors work
 8. flag recognition (vexillology overview)
-9. this UK report: https://www.lse.ac.uk/News/News-Assets/PDFs/2021/Sentience-in-Cephalopod-Molluscs-and-Decapod-Crustaceans-Final-Report-November-2021.pdf
+9. ~~[this UK report](https://www.lse.ac.uk/News/News-Assets/PDFs/2021/Sentience-in-Cephalopod-Molluscs-and-Decapod-Crustaceans-Final-Report-November-2021.pdf)~~ (already covered [here](https://jafekb.github.io/blog/2022/01/03/article_summaries.html))
