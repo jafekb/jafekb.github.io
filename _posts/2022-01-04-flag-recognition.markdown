@@ -7,8 +7,8 @@ categories: blog
 
 I have recently developed an interest in the field of vexillology: the study of flags. I think flags are so interesting: they really have power to bring a large group of people together and allow them to demonstrate pride in their shared experience. For example, I grew up in California, my wife grew up in Maryland, and we both now live in Massachusetts. Of the flags from those three states given below, can you guess which one nobody knows? I'll give you a hint: it's the one with a single seal in the middle of a single color, the same as 28 other states.
 ![maryland flag](/images/maryland_flag.jpg)
-![ca-flag](/images/maryland_flag.jpg)
-![ma-flag](/images/maryland_flag.jpg)
+![ca-flag](/images/ca_flag.jpg)
+![ma-flag](/images/ma_flag.jpg)
 
 
 Massachusetts residents miss out on the opportunity that Californians and Marylanders have of rallying around a common shared icon. My wife loves seeing the Maryland flag in unexpected places: it reminds her of home, it has a lot of positive associations with things she loves, and it gives a feeling of comraderie with other Marylanders. On the other hand, neither of us would recognize the Massachusetts flag.  
