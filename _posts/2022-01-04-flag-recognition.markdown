@@ -30,14 +30,14 @@ With this short history in mind, let's take a look at the many flags that make a
 
 TODO
 1. flags
-    a. EU
-    b. Spain
-    c. Catalonia
-    d. Catalonia independence
-    e. socialism
-    f. black & white
-    g. barcelona
-    h. barceloneta
+    1.1 EU
+    1.2 Spain
+    1.3 Catalonia
+    1.4 Catalonia independence
+    1.5 socialism
+    1.6 black & white
+    1.7 barcelona
+    1.8 barceloneta
 
 
 
