@@ -32,12 +32,14 @@ TODO
 1. flags
  * EU
  * Spain
+ * Spanish republic
  * Catalonia
  * Catalonia independence
  * socialism
  * black & white
  * barcelona
  * barceloneta
+ * bonus: yellow ribbons
 
 
 
