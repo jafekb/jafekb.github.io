@@ -74,6 +74,45 @@ He says that the defining characteristic of a schizophrenic person is their inab
 Elizabeth just finished a book on schizophrenia which had a little bit of a different view about it, but both that book and this video highlight how little we understand about schizophrenia. He says that maybe we can look at schizophrenia as more of a symptom of disease rather than the disease itself.
 
 
+### Creative or created: Using anecdotes to investigate animal cognition
+**Author(s)**: Lucy Anne Bates (Univ. Sussex), Richard W Byrne (Univ. St. Andrews)
+**Date:** June 2007
+
+My interest in this paper was sparked by a comment made in Godfrey-Smith's _Other Minds_ about the difficulty in replicating anecdotal animal behavior with rigorous scientific evidence. It is very interesting: the key idea is that anyone observing animals for a long enough period of time will notice them doing interesting things: maybe strange, impressive, or intelligent. However, because we often don't understand animals well enough, it can be very difficult to convince them to replicate those behaviors in controlled experiments that would allow us to explain them. Maybe we want to convince ourselves that the tool usage was pre-planned, or that the language demonstration was intentional and understood, or that the animal really understood what it was doing. But maybe the monkey isn't motivated strongly enough by a nut to perform a difficult behavior to get it; or we don't understand the social behavior of the octopus enough to be able to reproduce the environment that prompted it to stand on its tentacles; our ignorance of animal umwelt is infinite. As a result, anecdotes will always be more interesting than data.
+So the point of this paper is to talk about how to effectively use anecdotes in scientific study, using the African elephant as a case study.
+They start out saying that "to date, very few empirical studies that investigate the intelligence or creativity of elephants have been published. Although the social ecology of wild elephants, both African and Asian species, has been studied for many decades and is now comparitively well understood, still remarkably little is known about the cognitive capacities of these esteemed animals."
+Quotes:
+```
+Using anecdotal records allows us to consider the full range of
+behaviour that occurs naturally in a species, including their
+most creative aptitudes, rather than restricting the focus to
+paradigms already familiar from systematic study of other animal
+species and humans. This then allows us to generate and define
+appropriate hypotheses about cognitive capacities, with the aim
+of subsequently developing rigorous but novel methodology for
+experimental testing."
+```
+I think this is the most important part: "The plural of 'anecdote' is not 'data'", but rather "The plural of 'anecdote' is 'an important research question'".  
+It reminds me of Asimov's quote: "The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...'" - anecdotes are the "that's funny..."'s of scientific study, which is important especially in a field where rigorous proof is so difficult. You have to be very convinced that the animal will demonstrate the behavior you're looking for if only you could create the right experiment, and you become convinced by having a lot of anecdotal evidence.
+So, they talk about a few ways to use anecdotes responsibly:
+1. rare events
+- "ad libitum": something strange you've never seen before. E.g., infanticide in primates. Frith in 2005 recorded it for a long time, realized that it had been observed for almost 100 years but everyone had been independently writing it off as a one-off occurrence. (!)
+- "focal behavior sampling": an event that you can record in full, it is just observed rarely, like predation or birth.
+
+3 criteria:
+1. Observers experienced with the species. Example of chimpanzee "laughing happily" when really it is a fear grin. Even in these cases, it is important that the researcher "report only the behavior as observed," with no "anthropomorphic or mental state inferences."
+2. Using records as they were originally recorded. Must be written down immediately and not re-told over and over again, something that would expose it to human memory reconstruction.
+3. Multiple independent records of the same phenomenon. "One-off records are vulnerable to ambiguous interpretation: as coincidence, assident, misattribution, or observer error... The question of proper interpretation becomes tractable, however, if multiple records of behaviors exist. Once a set of similar records from similar circumstances begins to accumulate, the likelihood that the observed events were causally unrelated to the circumstances is reduced."
+
+They [cite BF Skinner][skinner-no-mental] saying that "Psychologists have in the past argued that all human behavior could be explained without mental states," which feels a little disingenuous. BUT their point is that if you can do it for humans, you can _definitely_ do it for animals, so if you _can't_ do it for humans, does that tell you anything about what you assume about animals? Not super convincing but an interesting though experiment.
+
+Some other researchers conclude after looking at a bunch of anecdotes about animal teaching behaviors that it is "unnecessary to make assumptions about what the instructor knows about the pupil's beliefs, desires, or motives." (re: theory of mind).
+
+(TODO: This only goes through section 2.2)
+
+
+
 [sapolsky-intro]: https://www.youtube.com/watch?v=NNnIGh9g6fA
 [sapolsky-depression]: https://www.youtube.com/watch?v=NOAgplgTxfc
 [sapolsky-schiz]: https://www.youtube.com/watch?v=nEnklxGAmak
+[skinner-no-mental]: https://d1wqtxts1xzle7.cloudfront.net/31955160/Science_and_Human_Behavior-with-cover-page-v2.pdf?Expires=1641687999&Signature=Ug5KZ2cbfCEj-iVZWHnhlNp9VmuHMB2-3sgM5Frdw3bc8BDFqpp3iLDK8o7NDmSP4UbxNihWL7URrq05kq4V9kK6Qm7UBMIl--b4mJFlGU4MuqMxT2lNHznkZVcCYa0HhV4lXxmxZinqmCSpKovBlAS4KU9F7neU1C-w3VA60xggeLAlhN2Qe9rReXuzPLgLp~MI2RMlAI3rLQPWFZN-ZKvZ~MTRmypDCUaCzFqP7mpZAMAlTop3Q0n-eTzExE6gamlgabu0-r-zObfVLQH2yN2YmKpgeu2ASq8m3Q1lwBgJfKcG2IRxOJgrTzbKOKAWDbVu7Q6pNEu8Rktvns-lPA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
