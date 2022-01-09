@@ -53,5 +53,8 @@ plugins:
 #   - vendor/ruby/
 
 collections:
-    posts:
-        sort_by: categories
+    order:
+        - 2022-01-01-future-posts.markdown
+        - 2022-01-02-octopus-consciousness.markdown
+        - 2022-01-03-article_summaries.markdown
+        - 2022-01-04-flag-recognition.markdown
