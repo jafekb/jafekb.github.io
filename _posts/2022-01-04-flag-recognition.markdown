@@ -64,27 +64,14 @@ This flag represents the Republican movement in Spain, which holds that Spain sh
 <flag of barceloneta>
 Barceloneta is a pretty small neighborhood of Barcelona tucked up against the beach. I include its flag here because I was struck by how often I saw the flag, which represented a neighborhood with a population of just about 15,000 people, being flown. It shows an interesting pride in such a small place.
 
-### Yellow Ribbons
+### Bonus: Yellow Ribbons
 <picture of yellow ribbons>
-Yellow ribbons are a pretty universal symbol of welcoming, acceptance, and love, especially someone you have not seen for a long time. This origin of the symbolism is a little bit unclear, but definitely became a worldwide symbol in 1973 when the American pop band Tony Orlando and Dawn's "Tie a Yellow Ribbon Round the Ole Oak Tree" reached the top 10 list in ten separate countries. It says:  
+This symbol is not a flag, per se, but still a symbol of Catalan pride that is seen all over Barcelona, so I'm including it in this list. Yellow ribbons are a pretty universal symbol of welcoming, acceptance, and love, especially someone you have not seen for a long time. This origin of the symbolism is a little bit unclear, but definitely became a worldwide symbol in 1973 when the American pop band Tony Orlando and Dawn's "Tie a Yellow Ribbon Round the Ole Oak Tree" reached the top 10 list in ten separate countries. It says:  
 If you still want me, if you still want me  
 Whoa, tie a yellow ribbon 'round the ole oak tree  
 It's been three long years, do you still want me?  
   
-In Catalonia, though, these yellow ribbons stand as marks of solidarity with the jailed and exiled leaders who organized the 2017 independence bid in Catalonia. However, the popularity of these ribbons has apparently 
-
-TODO
-1. flags
- * Spanish republic
- * Catalonia
- * Catalonia independence
- * socialism
- * black & white
- * barcelona
- * barceloneta
- * bonus: yellow ribbons
-
-
+In Catalonia, though, these yellow ribbons stand as marks of solidarity with the jailed and exiled leaders who organized the 2017 independence bid in Catalonia. However, the popularity of these ribbons has apparently decreased since (1) asdf, and (2) all of the prisoners were pardoned in 2021. I definitely still noticed a lot of them around the city during my stay there in late 2021 to early 2022.
 
 [bad-flags]: https://www.ted.com/talks/roman_mars_why_city_flags_may_be_the_worst_designed_thing_you_ve_never_noticed?language=en
 [globe-flag-behind]: https://www.bostonglobe.com/2021/11/28/metro/nearly-year-later-panel-rethinking-massachusetts-state-seal-is-behind-schedule-still-shorthanded/
