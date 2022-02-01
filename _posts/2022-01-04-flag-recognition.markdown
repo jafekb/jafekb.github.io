@@ -71,7 +71,7 @@ If you still want me, if you still want me
 Whoa, tie a yellow ribbon 'round the ole oak tree  
 It's been three long years, do you still want me?  
   
-In Catalonia, though, these yellow ribbons stand as marks of solidarity with the jailed and exiled leaders who organized the 2017 independence bid in Catalonia. However, the popularity of these ribbons has apparently decreased since (1) asdf, and (2) all of the prisoners were pardoned in 2021. I definitely still noticed a lot of them around the city during my stay there in late 2021 to early 2022.
+In Catalonia, though, these yellow ribbons stand as marks of solidarity with the jailed and exiled leaders who organized the 2017 independence bid in Catalonia. However, the popularity of these ribbons has apparently decreased since (1) a Barcelona court ordered the removal of all yellow ribbons from official buildings in 2020, and (2) all of the prisoners were pardoned in 2021. I definitely still noticed a lot of them around the city during my stay there from late 2021 to early 2022.
 
 [bad-flags]: https://www.ted.com/talks/roman_mars_why_city_flags_may_be_the_worst_designed_thing_you_ve_never_noticed?language=en
 [globe-flag-behind]: https://www.bostonglobe.com/2021/11/28/metro/nearly-year-later-panel-rethinking-massachusetts-state-seal-is-behind-schedule-still-shorthanded/
