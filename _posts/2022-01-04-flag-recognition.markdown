@@ -38,7 +38,7 @@ You will often see three or four flags posted side-by-side in Spain, representin
 The Spanish flag is colloquially called the "Rojigualda", which could be surprising to modern Spanish speakers who might expect something like "Rojiamarilla." However, the _gualda_ refers to a more archaic Spanish word for that off-yellow gold color present in the flag. It was designed by a guy named Antonio Valdes y Bazan in 1785, being used purely for naval purposed until 1820 when it started to be used for more general-purpose Spanish representation. Something interesting about the flag itself is that this design, with the two horizontal stripes on top and bottom, with the middle section being equal in size to both of them combined, is called a _Spanish fess_, because this flag is the most common example of the design. I really like this flag: the colors, the organization and the off-center seal all walk the right line between simple and unique.
 
 ### Catalonia flag
-Catalonia is one of the nineteen states in Spain, known as _autonomous communities. However, the Catalan flag, or _Senyera_, is featured on the flags of three other surrounding autonomous communities, and represents the Catalonian "nationality" which has very strong roots, dating back to the kingdom of Aragon which united with Spain in 1137. Catalan pride is huge in this region and has increased significantly since the 2010's, so it is very common to see this flag flown around Barcelona. This flag is definitely seen much more than the Spanish flag.
+Catalonia is one of the nineteen states in Spain, known as _autonomous communities_. However, the Catalan flag, or _Senyera_, is featured on the flags of three other surrounding autonomous communities, and represents the Catalonian "nationality" which has very strong roots, dating back to the kingdom of Aragon which united with Spain in 1137. Catalan pride is huge in this region and has increased significantly since the 2010's, so it is very common to see this flag flown around Barcelona. This flag is definitely seen much more than the Spanish flag.
 
 ### Catalan Independence flag
 <insert Estelada flag>
@@ -49,18 +49,29 @@ More common than the Catalan flag is the Catalan independence flag, a sort of ma
 <insert red estelada>
 It is also common to see a red _estelada_, very similar to the blue one. This one is more specifically called the "vermella." It represents similar Catalan independence desires, but has a more socialist bent. It dates back to around the 70s when socialism was very popular in Spain.
 
-### Black and white Catalan
-<insert black and white>
+### Catalan Tricentennial flag
+<insert tricentennial>
 This pirate-esque flag was first hoisted in July 2014 at the Museum of History of Catalonia. It commemorates the defense of the castle of Montjuic by Catalan people against Philip V in the year 1714 (thus the name _tricentennial_). The cross is the Cross of St. Eulalia, and is formed from two V's, for "Votar" and "Victoria."
 
 ### Barcelona flag
-And now we finally come to the flag of the city. It is very rare in the US to see city flags flown, in fact very few cities have flags that were designed with any amount of care like they would ever be flown. However, that is not always the case here in Spain. The Barcelona flag, shown here, really encapsulates the spirit of the city. It is composed of the Catalan Senyera, and the cross of St Jordi, the patron saint of the city. Legend says that he saved a woman from a dragon,  
+And now we finally come to the flag of the city. It is very rare in the US to see city flags flown, in fact very few cities have flags that were designed with any amount of care like they would ever be flown. However, that is not always the case here in Spain. The Barcelona flag, shown here, really encapsulates the spirit of the city. It is composed of the Catalan Senyera, and the cross of St Jordi, the patron saint of the city. Legend says that he saved a woman from a dragon, and he also really likes books. St Jordi's day in April is celebrated by the exchange of roses and also books between friends and lovers. It sounds like a really nice holiday.
 
 ### Spanish republic flag
+<insert republic>
+This flag represents the Republican movement in Spain, which holds that Spain should be a republic. It was officially the flag of the Second Spanish Republic, which lasted from 1931-1939. It was dissolved by the Nationalists led by Franco. So this Republic actually represented a much better time for Spain than the 40 years following it under Franco. In fact, Catalonia was granted home rule with a local parliament and president of its own under this republic. My best understanding at what this flag represents is a time in Spain's history when Catalonia was allowed to have autonomous rule but also be a part of the republic of Spain, a hope for the potential future independence.
 
 ### Barceloneta
+<flag of barceloneta>
+Barceloneta is a pretty small neighborhood of Barcelona tucked up against the beach. I include its flag here because I was struck by how often I saw the flag, which represented a neighborhood with a population of just about 15,000 people, being flown. It shows an interesting pride in such a small place.
 
 ### Yellow Ribbons
+<picture of yellow ribbons>
+Yellow ribbons are a pretty universal symbol of welcoming, acceptance, and love, especially someone you have not seen for a long time. This origin of the symbolism is a little bit unclear, but definitely became a worldwide symbol in 1973 when the American pop band Tony Orlando and Dawn's "Tie a Yellow Ribbon Round the Ole Oak Tree" reached the top 10 list in ten separate countries. It says:  
+If you still want me, if you still want me  
+Whoa, tie a yellow ribbon 'round the ole oak tree  
+It's been three long years, do you still want me?  
+  
+In Catalonia, though, these yellow ribbons stand as marks of solidarity with the jailed and exiled leaders who organized the 2017 independence bid in Catalonia. However, the popularity of these ribbons has apparently 
 
 TODO
 1. flags
