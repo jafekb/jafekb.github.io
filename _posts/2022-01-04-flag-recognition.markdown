@@ -1,4 +1,4 @@
----
+--
 layout: post
 title:  "The many flags of Barcelona"
 date:   2022-01-04 14:33:06 -0500
@@ -28,10 +28,42 @@ Those 5 Rules are:
 
 With this short history in mind, let's take a look at the many flags that make an appearance in Barcelona, Spain, and what they tell us about the history and present of the city.
 
+### EU Flag
+<insert EU flag here>
+You will often see three or four flags posted side-by-side in Spain, representing the location in descending order of specificity: The EU, Spain, Catalonia, and then (sometimes) Barcelona. The American analogue of this would be to include the country, state, and city flags all together, which is a very common sight in the USA. Spain joined the European Economic Community (EEC), the precursor to the European Union (EU) in 1986, the same year that the EU flag was adopted. But, this is a post about flags in Spain, not about the EU, so I will leave the determination of any more information about Spain's involvement in the EU as an exercise to the reader.
+
+### Spain Flag
+<insert Spain flag here>
+![spain-flag](/images/spanish_flag.jpg)  
+The Spanish flag is colloquially called the "Rojigualda", which could be surprising to modern Spanish speakers who might expect something like "Rojiamarilla." However, the _gualda_ refers to a more archaic Spanish word for that off-yellow gold color present in the flag. It was designed by a guy named Antonio Valdes y Bazan in 1785, being used purely for naval purposed until 1820 when it started to be used for more general-purpose Spanish representation. Something interesting about the flag itself is that this design, with the two horizontal stripes on top and bottom, with the middle section being equal in size to both of them combined, is called a _Spanish fess_, because this flag is the most common example of the design. I really like this flag: the colors, the organization and the off-center seal all walk the right line between simple and unique.
+
+### Catalonia flag
+Catalonia is one of the nineteen states in Spain, known as _autonomous communities. However, the Catalan flag, or _Senyera_, is featured on the flags of three other surrounding autonomous communities, and represents the Catalonian "nationality" which has very strong roots, dating back to the kingdom of Aragon which united with Spain in 1137. Catalan pride is huge in this region and has increased significantly since the 2010's, so it is very common to see this flag flown around Barcelona. This flag is definitely seen much more than the Spanish flag.
+
+### Catalan Independence flag
+<insert Estelada flag>
+<insert cuban flag>
+More common than the Catalan flag is the Catalan independence flag, a sort of mash-up of the Catalan flag with the Cuban flag (see the comparison above). You see it on balconies everywhere - many people fly the Catalan independence flag. It is called the _Estelada_, which can roughly be translated as "The Lone Star Flag." It was actually created in conjunction with a new Constitution that Catalonia wrote as part of an assembly in 1931 which established Catalan independence for a grand total of three days before it was integrated into the Spanish republic.
+
+### Red Estelada
+<insert red estelada>
+It is also common to see a red _estelada_, very similar to the blue one. This one is more specifically called the "vermella." It represents similar Catalan independence desires, but has a more socialist bent. It dates back to around the 70s when socialism was very popular in Spain.
+
+### Black and white Catalan
+<insert black and white>
+This pirate-esque flag was first hoisted in July 2014 at the Museum of History of Catalonia. It commemorates the defense of the castle of Montjuic by Catalan people against Philip V in the year 1714 (thus the name _tricentennial_). The cross is the Cross of St. Eulalia, and is formed from two V's, for "Votar" and "Victoria."
+
+### Barcelona flag
+And now we finally come to the flag of the city. It is very rare in the US to see city flags flown, in fact very few cities have flags that were designed with any amount of care like they would ever be flown. However, that is not always the case here in Spain. The Barcelona flag, shown here, really encapsulates the spirit of the city. It is composed of the Catalan Senyera, and the cross of St Jordi, the patron saint of the city. Legend says that he saved a woman from a dragon,  
+
+### Spanish republic flag
+
+### Barceloneta
+
+### Yellow Ribbons
+
 TODO
 1. flags
- * EU
- * Spain
  * Spanish republic
  * Catalonia
  * Catalonia independence

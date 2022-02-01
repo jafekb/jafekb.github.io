@@ -8,9 +8,10 @@ categories: blog
 # Article summaries
 Summaries of articles that I read that I think are interesting. Probable topics will include: machine learning, perception, autonomy, consciousness, ethology (especially cognitive ethology), artificial intelligence.
 
-### Sentience in Sephalopod Molluscs and Decapod Crustaceans
+### Sentience in Cephalopod Molluscs and Decapod Crustaceans
 **Author(s):** Jonathan Birch, Charlotte Burn, Alexandra Schnell, Heather Browning and Andrew Crump
 **Date:** Nov 2021
+**Source:** [online pdf][cephalopod-sentience]
 
 This article is a very interesting report out of the UK that concludes that octopuses and crabs have enough sentience that they should be protected under animal anti-cruelty laws, specifically the Animal Welfare Act of 2006. To me, "sentience" feels like a very strong word, but they are talking about just being able to feel and process pain. They define sentience as "the capacity to have feelings." 
 It is an important conclusion and makes me think about my consumption of octopus and crab, especially given that this report is only coming out now. The recency highlights how little we know about the inner state of invertebrates. They explicitly mention that they are not going to propose legislation changes as part of this report, but they do mention a few specifics of practices that are highly probable to be unethical, given our understanding of cephalopod behaviors and feelings. For example, presence of dark shelters is very important for crabs and octopuses.  
@@ -30,6 +31,7 @@ In sum, 1-4 are related to the animal's physical ability to feel pain; 5-8 are r
 ### Sapolsky's Human Behavioral Biology Lectures
 **Author(s)**: Professor Robert Sapolsky
 **Date:** Feb 2011 (recurring course though)
+**Source:** [YouTube videos][sapolsky-videos]
 
 For some reason, a bunch of the Stanford Youtube channel's top videos are a series of lectures by a super interesting neuroendicrinology researcher professor there named Robert Sapolsky (his "Introduction to Human Behavioral Biology" class has 11 million views). Maybe as a response to that question, the lectures are fascinating. I watched major portions of 3 of them, with my thoughts summarized below:  
 1. [Introduction to Human Behavioral Biology][sapolsky-intro]
@@ -77,6 +79,7 @@ Elizabeth just finished a book on schizophrenia which had a little bit of a diff
 ### Creative or created: Using anecdotes to investigate animal cognition
 **Author(s)**: Lucy Anne Bates (Univ. Sussex), Richard W Byrne (Univ. St. Andrews)
 **Date:** June 2007
+**Source:** [online pdf][anecdote-animals]
 
 My interest in this paper was sparked by a comment made in Godfrey-Smith's _Other Minds_ about the difficulty in replicating anecdotal animal behavior with rigorous scientific evidence. It is very interesting: the key idea is that anyone observing animals for a long enough period of time will notice them doing interesting things: maybe strange, impressive, or intelligent. However, because we often don't understand animals well enough, it can be very difficult to convince them to replicate those behaviors in controlled experiments that would allow us to explain them. Maybe we want to convince ourselves that the tool usage was pre-planned, or that the language demonstration was intentional and understood, or that the animal really understood what it was doing. But maybe the monkey isn't motivated strongly enough by a nut to perform a difficult behavior to get it; or we don't understand the social behavior of the octopus enough to be able to reproduce the environment that prompted it to stand on its tentacles; our ignorance of animal umwelt is infinite. As a result, anecdotes will always be more interesting than data.
 So the point of this paper is to talk about how to effectively use anecdotes in scientific study, using the African elephant as a case study.
@@ -112,6 +115,9 @@ Some other researchers conclude after looking at a bunch of anecdotes about anim
 
 
 
+[anecdote-animals]: https://www.researchgate.net/publication/6394810_Creative_or_created_Using_anecdotes_to_investigate_animal_cognition
+[cephalopod-sentience]: https://www.lse.ac.uk/News/News-Assets/PDFs/2021/Sentience-in-Cephalopod-Molluscs-and-Decapod-Crustaceans-Final-Report-November-2021.pdf
+[sapolsky-videos]: https://www.youtube.com/watch?v=NNnIGh9g6fA
 [sapolsky-intro]: https://www.youtube.com/watch?v=NNnIGh9g6fA
 [sapolsky-depression]: https://www.youtube.com/watch?v=NOAgplgTxfc
 [sapolsky-schiz]: https://www.youtube.com/watch?v=nEnklxGAmak
